@@ -1,4 +1,11 @@
 # Temperature Conditions on Bikeways in Bavaria
+
+
+
+<div style="display: flex;">
+    <img src="https://www.radlland-bayern.de/wp-content/uploads/img-rv-1080x720-knotenpunkt.jpg" alt="Image 2" style="height: 200px; width: auto; object-fit: cover; object-position: 100% 0;">
+</div>
+
 Final Project for Spatial Python
 
 Author: Agnes Zwick
