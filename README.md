@@ -1,4 +1,6 @@
-# Spatial_Python_FinalExam
+# Temperature Conditions on Bikeways in Bavaria
+Final Project for Spatial Python
+
 Author: Agnes Zwick
 Lecturer: Steven Hill
 
